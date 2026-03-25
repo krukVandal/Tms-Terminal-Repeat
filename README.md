@@ -7,7 +7,7 @@
 
 2. Вывести список всех портов в состоянии `LISTEN` на `ВМ`
 
-
+<img width="878" height="616" alt="image" src="https://github.com/user-attachments/assets/fa78dca6-5241-4aeb-8521-6e3295d0244f" />
 
 3. Найти процесс запущенного выше приложения и вывести его `PID`
 
