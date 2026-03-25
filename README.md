@@ -3,7 +3,7 @@
 
 1. Определить модель процессора, используя в качестве источника данных файл `/proc/cpuinfo`
 
-<img width="628" height="150" alt="image" src="https://github.com/user-attachments/assets/ad14f4b1-068d-481c-b59e-644c8a4b0c8f" />
+<img width="865" height="186" alt="image" src="https://github.com/user-attachments/assets/9e2d57ee-ab33-43b0-8b77-40bb07d26eda" />
 
 2. Вывести список всех портов в состоянии `LISTEN` на `ВМ`
 
