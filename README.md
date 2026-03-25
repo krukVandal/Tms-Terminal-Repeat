@@ -86,30 +86,43 @@
 
 <img width="454" height="134" alt="image" src="https://github.com/user-attachments/assets/e203ea53-b793-4515-9a6f-26d8b6e7e1f3" />
 
-#Запуск Демона-1 Оранжевые Кнопки
+# Запуск Демона-1 Оранжевые Кнопки
 
-    - Клонировал репозиторий
-    - Создал виртуальное окружение -m venv /opt/srv/orange-buttons/.venv
-    - Активировал виртуальное окружение source /opt/srv/orange-buttons/.venv/bin/activate
-    - Установил зависимости и деактивировал виртуальное окружение.
+   - Клонировал репозиторий
+   - Создал виртуальное окружение `-m venv /opt/srv/orange-buttons/.venv`
+   - Активировал виртуальное окружение source `/opt/srv/orange-buttons/.venv/bin/activate`
+   - Установил зависимости и деактивировал виртуальное окружение.
 
-#Запуск Демона-2 Http-server
+<img width="902" height="357" alt="image" src="https://github.com/user-attachments/assets/9945e7f8-b7d5-4ad5-baa7-651bb912cc62" />
+
+<img width="1157" height="649" alt="image" src="https://github.com/user-attachments/assets/9d57e3b7-85dd-418c-98bc-62e49f9167ae" />
+
+<img width="1211" height="700" alt="image" src="https://github.com/user-attachments/assets/9601c220-3c14-4bd7-8b7c-191ff3cc7ad1" />
+
+
+# Запуск Демона-2 Http-server
 
 1. Клонировал репозиторий, создал пользователя, создал группу, добавил пользователя в группу и сменил владельцев директории
 
+<img width="814" height="252" alt="image" src="https://github.com/user-attachments/assets/d5cffca0-7120-4955-9d9b-da2bec8f6f61" />
 
 2. Создал виртуальное окружение и показал владельцев
 
+<img width="815" height="275" alt="image" src="https://github.com/user-attachments/assets/8634888c-5f9c-4424-b054-dd8cc4ab51c4" />
 
 3. Конфиг unit
 
+<img width="805" height="657" alt="image" src="https://github.com/user-attachments/assets/3e954b45-ea13-4d19-b4f6-b38b3db2d135" />
 
 4. На первом запуске получил ошибку no such directory
 
+<img width="1010" height="492" alt="image" src="https://github.com/user-attachments/assets/22379d41-b91d-4f97-8910-61783cb2a5c4" />
 
 5. Отредактировал файл app.py, а именно метод os.chdir() - возможно намеренно была допущена ошибка в директории и создал папку content
 
+<img width="651" height="477" alt="image" src="https://github.com/user-attachments/assets/74a956ab-6c4b-47fc-8269-0427a2591ef3" />
 
 6. Демон запустился без ошибок
 
+<img width="834" height="332" alt="image" src="https://github.com/user-attachments/assets/b03c9281-ed6b-4968-ae63-58dfcad838f9" />
 
